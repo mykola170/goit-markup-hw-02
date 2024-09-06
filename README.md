@@ -96,7 +96,6 @@ problem to walk away with the perfect and creative solution. </li>
 <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions</p
 >
 
-</body>
 </html>
 
   
