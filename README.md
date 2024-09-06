@@ -72,7 +72,6 @@ problem to walk away with the perfect and creative solution. </li>
             <h2>Tom Ford</h2>
             <p>Frontend Developer</p>
         </li>
-        <ul>
             <li>
                 <a>
                     <img src="https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg" alt="young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair."
