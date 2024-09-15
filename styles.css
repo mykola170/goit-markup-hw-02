@@ -1,5 +1,54 @@
 
-body {
-	background-color: #f12222;
+h1{
+     text-align: center;
 }
 
+h2{
+     margin: 10px;
+}
+
+p{
+     margin: 10px;
+}
+
+ul{
+
+     text-align: center;
+}
+
+
+.title{
+ text-align: right;
+}
+
+
+.c-title{
+     text-align: left;
+    }
+
+
+
+    .s-title{
+     text-align: center;
+    }
+    .a-title{
+     text-align: right;
+    }
+    
+
+
+
+
+
+
+
+
+
+    h2{
+     color:#2E2F42
+    }
+
+
+    p{
+     color:#434455
+    }
